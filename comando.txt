@@ -1,0 +1,14 @@
+git init – inicializa um repositório na pasta atual
+git config user.name "nome" – Definir nome do usuário que usará o git neste projeto neste computador
+git config  -- global user.name “nome” - Definir nome do usuário que usará o git em todos os projetos neste computador
+git config user.email "email" – Definir email do usuário que usará o git neste projeto
+git config -- global user.email "email" – Definir email do usuário que usará o git em todos os projetos neste projeto
+git status – Mostra os arquivos e pastas que estão na área staging
+git add -A – Adiciona todos arquivos atuais (novos, atualizados, deletados) 
+git add --all – Adiciona todos arquivos atuais (novos, atualizados, deletados)
+git add .
+git add nome.txt – Adiciona o arquivo
+git commit -m "Mensagem" – Realizar commit com uma msg que identifique
+git log – Mostra os últimos commits do repositório atual
+git merge – Trazer os elementos da branch indicada no comando, para a branch atual
+git merge --abort – Aborta o processo de merge em casos em que o Git identifica um conflito, retornando o projeto ao seu estado anterior à tentativa do merge
