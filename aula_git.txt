@@ -1,3 +1,4 @@
 Frase escrita antes do merge
 Frase escrita para o primeiro commit
 Frase escrita na nova branch
+Inclusão de frase após criação do repositório remoto
