@@ -12,3 +12,6 @@ git commit -m "Mensagem" – Realizar commit com uma msg que identifique
 git log – Mostra os últimos commits do repositório atual
 git merge – Trazer os elementos da branch indicada no comando, para a branch atual
 git merge --abort – Aborta o processo de merge em casos em que o Git identifica um conflito, retornando o projeto ao seu estado anterior à tentativa do merge
+git branch - exibe todas as branchs
+git branch nome - cria uma branch
+git checkout nome - muda de branch
